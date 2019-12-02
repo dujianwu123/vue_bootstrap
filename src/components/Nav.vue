@@ -30,7 +30,8 @@
               aria-expanded="false"
             >
               联系我们
-              <span class="underline"></span></a>
+              <span class="underline"></span>
+            </a>
             <ul class="dropdown-menu">
               <li><a
                   href="javascript:;">招生简章</a></li>
@@ -98,7 +99,7 @@ export default {
 }
 
 #daohang a:hover {
-  color: red;
+  color: #8d1d2d;
 }
 .caret {
     display: inline-block;
@@ -125,5 +126,5 @@ export default {
     right: 0;
   }
 }
-
+.open>a { background: #fff !important }
 </style>
