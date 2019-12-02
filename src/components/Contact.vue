@@ -67,7 +67,6 @@ export default {
 <style lang="scss" scoped>
 #contact{
   background: url('~@/assets/images/contact-bg.png') no-repeat;
-                   
   background-size: cover;
   color: #ffffff;
 }
