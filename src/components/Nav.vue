@@ -34,7 +34,7 @@
             </a>
             <ul class="dropdown-menu">
               <li><a
-                  href="javascript:;">招生简章</a></li>
+                  href="javascript:;">招生简1章</a></li>
               <li><a
                   href="javascript:;">奖学金</a></li>
               <li><a
