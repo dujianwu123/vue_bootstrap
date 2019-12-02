@@ -21,7 +21,7 @@
           <li><a href="#bootstrap">德育在线</a></li>
           <li><a href="#course">学生天地</a></li>
           <li><a href="#app">招生考试</a></li>
-          <li class="dropdown open">
+          <li class="dropdown">
             <a href="javascript:;"
               class="dropdown-toggle"
               data-toggle="dropdown"
@@ -34,7 +34,7 @@
             </a>
             <ul class="dropdown-menu">
               <li><a
-                  href="javascript:;">招生简1章</a></li>
+                  href="javascript:;">招生简章</a></li>
               <li><a
                   href="javascript:;">奖学金</a></li>
               <li><a

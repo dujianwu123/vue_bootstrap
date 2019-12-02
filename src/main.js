@@ -15,12 +15,13 @@ new Vue({
   components: { App },
   template: '<App/>',
   mounted () {
-    var wow = new WOW({
-      boxClass: 'wow',
-      animateClass: 'animated',
-      offset: 0,
-      mobile: true
-    })
-    wow.init()
+    // var wow = new WOW({
+    //   boxClass: 'wow',
+    //   animateClass: 'animated',
+    //   offset: 0,
+    //   mobile: true
+    // })
+    // wow.init()
+    new WOW().init()
   }
 })
