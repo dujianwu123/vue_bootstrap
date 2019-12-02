@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+  .dropdown-menu {
+    min-width: 130px;
+    left: 50%;
+    margin-left: -65px;
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-right .dropdown-menu {
+    right: 0;
+    left: auto;
+  }
+}
