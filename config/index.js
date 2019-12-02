@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/vue_bootstrap/dist',
+    assetsPublicPath: '/vue_bootstrap/dist/',
 
     /**
      * Source Maps
