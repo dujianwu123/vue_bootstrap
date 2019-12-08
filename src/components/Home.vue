@@ -5,10 +5,10 @@
           <div class="row wow fadeInUp" data-wow-duration="1s">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-              <h1>bootstrap实战课程等你来战！</h1>
+              <h1>耘泽基金会！</h1>
               <p>
-                本套课程适用于：1.WEB开发人员；2.网站维护人员、管理人员<br />
-                培训技能的目标：使用bootstrap框架快速构建响应式网页，颠覆传统WEB前端！
+                本网站适用于：1.WEB开发人员；2.网站维护人员、管理人员<br />
+                展示目标：使用颠覆传统WEB前端使用颠覆传统WEB前端使用颠覆传统WEB前端！
               </p>
               <img src="../assets/images/php.jpg" class="img-responsive" alt="php" />
             </div>

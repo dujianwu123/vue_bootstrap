@@ -9,7 +9,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>
@@ -17,7 +17,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>
@@ -25,7 +25,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>
@@ -33,7 +33,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>
@@ -41,7 +41,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>
@@ -49,7 +49,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>
@@ -57,7 +57,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>
@@ -65,7 +65,7 @@
           <div class="course">
             <img src="../assets/images/swift.jpg" class="img-responsive" alt="" />
             <a href="javascript:;" class="btn btn-primary" role="button">
-              加入学习
+              加入我们
             </a>
           </div>
         </div>

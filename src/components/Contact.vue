@@ -7,10 +7,10 @@
             <h2>
               <span class="glyphicon glyphicon-send"></span>
               &nbsp;
-              联系小喵
+              联系xx
             </h2>
             <p>
-              我们从不说空话，专注于IT在线教育，脱离传统教育的束缚，让你走哪学哪，想学就学。逗比的老师，贴心的助教，在这儿你能感受到来自五 湖四海伙伴们热情和踏实的学习态度！
+              NBA Hong Kong Operations Limited委托深圳市腾讯计算机系统有限公司(“腾讯”）运营和维护NBA中国官方应用软件（“NBA中国APP”）和其他与NBA主题相关的网站、应用和服务（腾讯和Hong Kong Operations Limited统称“我们”）。
             </p>
             <address>
               <p>

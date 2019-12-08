@@ -15,12 +15,12 @@
       <div id="daohang" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="#">首页</a></li>
-          <li><a href="#home">学校概况</a></li>
-          <li><a href="#bbs">教学教研</a></li>
-          <li><a href="#html5">特色教育</a></li>
-          <li><a href="#bootstrap">德育在线</a></li>
-          <li><a href="#course">学生天地</a></li>
-          <li><a href="#app">招生考试</a></li>
+          <li><a href="#home">关于耘泽</a></li>
+          <li><a href="#bbs">慈善项目</a></li>
+          <li><a href="#html5">新闻资讯</a></li>
+          <li><a href="#bootstrap">通知公告</a></li>
+          <li><a href="#course">信息公开</a></li>
+          <li><a href="#app">政策法规</a></li>
           <li class="dropdown">
             <a href="javascript:;"
               class="dropdown-toggle"
@@ -29,14 +29,14 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              联系我们
+              支持我们
               <span class="underline"></span>
             </a>
             <ul class="dropdown-menu">
               <li><a
-                  href="javascript:;">招生简章</a></li>
+                  href="javascript:;">我要捐赠</a></li>
               <li><a
-                  href="javascript:;">奖学金</a></li>
+                  href="javascript:;">加入志愿者</a></li>
               <li><a
                   href="javascript:;">招生咨询</a></li>
               <li><a
